@@ -1,0 +1,26 @@
+# Install native apps
+brew tap phinze/homebrew-cask
+brew install brew-cask
+
+function installcask() {
+    brew cask install "${@}" 2> /dev/null
+}
+
+
+installcask google-chrome
+installcask google-chrome-canary
+installcask imagealpha
+installcask imageoptim
+installcask iterm2
+installcask sublime-text
+installcask mou
+installcask alfred
+installcask copy
+installcask github
+installcask quicklook-json
+installcask spectacle
+installcask steam
+installcask caffeine
+installcask atom
+installcask slack
+installcask alfred
