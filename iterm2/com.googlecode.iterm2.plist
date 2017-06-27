@@ -31408,7 +31408,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>80 193 592 584 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 25 1285 753 0 0 1280 778 </string>
+	<string>0 4 1275 774 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>0 4 1264 773 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -34386,6 +34386,10 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>0B23B287-0E2C-4211-BF9E-D0C43B433636</string>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -34464,7 +34468,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-06-22T18:18:11Z</date>
+	<date>2017-06-27T06:44:00Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
