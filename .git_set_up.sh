@@ -7,3 +7,4 @@ git config --global alias.co checkout
 #user
 git config --global user.name "Richi Jeffery"
 git config --global user.email rici1717@gmail.com
+

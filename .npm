@@ -1,1 +1,1 @@
-npm i -g babel bower bower-migrate browser-sync browserify dogesay eslint faucet forever fraktur generator-gulp-webapp gulp guppy-cli hotel http-server jshint json-server mocha n node-inspector node-libs-browser nodemon np npm pm2 public-ip redis-commander speed-test standard tape watchify webpack yo
+npm i -g babel eslint n nodemon npm webpack
