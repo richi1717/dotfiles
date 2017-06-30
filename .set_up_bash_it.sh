@@ -21,6 +21,6 @@ else
 fi
 
 cp ./base.theme.bash ~/.bash_it/themes/base.theme.bash
-
+cp ./.inputrc ~/.inputrc
 cp ./.bash_profile ~/.bash_profile
 
