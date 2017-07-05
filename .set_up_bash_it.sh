@@ -22,5 +22,6 @@ fi
 
 cp ./base.theme.bash ~/.bash_it/themes/base.theme.bash
 cp ./.inputrc ~/.inputrc
+cp ./git-completion.bash ~/git-completion.bash
 cp ./.bash_profile ~/.bash_profile
 
