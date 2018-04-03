@@ -51,6 +51,7 @@ export SCM_CHECK=true
 # Load Bash It
 source ~/git-completion.bash
 source "$BASH_IT"/bash_it.sh
+cp -R ./z ~/personal-projects/z
 
 . ~/personal-projects/z/z.sh
 
