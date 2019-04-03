@@ -7,5 +7,5 @@ git config --global alias.cp cherry-pick
 
 #user
 git config --global user.name "Richi Jeffery"
-git config --global user.email rici1717@gmail.com
+git config --global user.email richi1717@gmail.com
 
